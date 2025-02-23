@@ -1,4 +1,4 @@
-# Simple E-Commerce Website 🛒
+# Clothing Store - Ecommerce Website 🛒
 
 This project is a simple e-commerce website that features a shopping cart. Users can browse products, add them to the cart, adjust quantities, and remove items. The cart icon updates to reflect the total number of items added.
 
